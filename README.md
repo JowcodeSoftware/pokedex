@@ -1,4 +1,4 @@
-# Pokedex: Dev Soutinho 
+# Pokedex: Dev Jowcode
 
 [![Série](https://img.shields.io/badge/DevSoutinho-Pokedex-orange)](https://www.youtube.com/watch?v=jOAU81jdi-c&list=PLTcmLKdIkOWmeNferJ292VYKBXydGeDej)
 [![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](https://github.com/omariosouto/pokedex/blob/master/LICENSE)
